@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "file with dependencies for hw",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionufryk/protractor.git"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "IOnufryk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionufryk/protractor/issues"
+  },
+  "homepage": "https://github.com/ionufryk/protractor#readme"
+}
